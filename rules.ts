@@ -1,0 +1,1 @@
+export const MAYRAVERSE_RULES={brand:'MAYRAVERSE AI',tagline:'IMAGINE BEYOND REALITY.',defaultEpisodes:9,sceneDurationSeconds:10,storyAspectRatio:'16:9',socialAspectRatio:'9:16',language:'Hindi',characterLock:true,noLipSync:true,videoAudioInstructions:false};
